@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @projector-hermit
-- 📫 hermit_github@mail.ru
+- 👋 Hi, I’m @projector-hermit / Привет! Пытаюсь понять что к чему...
+- 📫 hermit_github@mail.ru / Если что - пиши
 
 <!---
 projector-hermit/projector-hermit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
